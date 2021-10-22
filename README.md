@@ -1,5 +1,4 @@
 ### Hi there! 👋
-![Fullstack Developer](https://media-exp1.licdn.com/dms/image/C4D03AQFmXz7Y1Hvg-A/profile-displayphoto-shrink_200_200/0?e=1610582400&v=beta&t=MaMb-c-Fo-vrRbfBoojm4iHk_DSis3z_WwiAVsMmSvA)
 
 My name is Danilo Esser. I'm just a Brazilian Fullstack Developer that has been building and maintaining web applications for organizations and businesses in a range of industries for the last 20 years... and still counting! 🖖 👾 
 
