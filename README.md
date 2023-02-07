@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is Danilo Esser. I'm just a Brazilian Fullstack Developer that has been building and maintaining web applications for organizations and businesses in a range of industries for the last 20 years... and still counting! 🖖 👾 
+My name is Danilo Esser. I'm a seasoned professional that has been building and maintaining web applications for organizations and businesses in a range of industries for the last 20 years... and still counting! 🖖 👾 
 
 
 
